@@ -1,0 +1,17 @@
+.body{
+    background-color:rgb(238, 144, 238);
+     display: flex;
+}
+.Titulo{
+    background-color: rgb(233, 203, 232);
+    color:darkmagenta;
+    display:flex;
+    -ms-flex-align: center;
+    margin-bottom: 10px;
+    justify-content: space-evenly; 
+}
+.itens{
+    display: flex;
+    flex-direction: row;
+    -ms-flex-wrap: nowrap; 
+}

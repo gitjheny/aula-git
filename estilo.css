@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(201, 200, 201);
+}
+
+
+.container{
+    border: #870303;
+    color:darkmagenta;
+    margin-top: 10px;
+
+
+}
+.titulo{
+    border: 3px solid #870303;
+    color:rgb(114, 5, 5);
+    margin-top: 10px;
+}
+.lista{
+    display: flex;
+    font-size: 15px;
+    display: flex;
+    flex-direction: row;
+    color:black;
+}
+.container2{
+    margin-bottom: 15px;
+    background-color: rgb(233, 203, 232);
+    color: darkmagenta;
+    height: 60px;
+    padding-bottom: 15px;
+}
+.corpo{
+    justify-content: space-around
+    font: size 25px;
+    align-items: center;
+}
+.imgP{
+    display: inline-block;
+    align-items: center;
+    margin-top: 25px;
+    margin-left: 25px;
+    
+}
+.texto{
+    padding-top: 100px;
+   
+}
+.rodape{
+    position: relative;
+    top: 98%;
+    left: 10%;
+    width: 300px;
+    
+}
+    

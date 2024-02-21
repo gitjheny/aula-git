@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(201, 200, 201);
+}
+.titulo1{
+    background-color: fuchsia;
+    color:darkmagenta;
+    padding-left: 30%;
+}
+.info{
+    color:brown;
+    display: flex;
+    align-items: center;
+    flex-direction:row;
+
+}
+.ficha {
+    color:darkviolet;
+}
